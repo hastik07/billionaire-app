@@ -1,5 +1,0 @@
-package com.dummyapp.billionaire_app
-
-import io.flutter.embedding.android.FlutterActivity
-
-class MainActivity: FlutterActivity()
